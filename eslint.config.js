@@ -1,4 +1,3 @@
-/* eslint-disable quotes */
 import js from '@eslint/js';
 
 export default [
